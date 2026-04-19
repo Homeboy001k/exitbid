@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "ExitBid",
+  "legalName": "ExitBid",
+  "alternateName": ["exitbid", "exitbid.io", "Exit Bid", "ExitBid.io", "exit bid"],
+  "url": "https://exitbid.io",
+  "logo": "https://exitbid.io/favicon.svg",
+  "image": "https://exitbid.io/og-image.png",
+  "description": "ExitBid is a curated 5-day auction marketplace for buying and selling verified online businesses. Founded in 2026, ExitBid runs zero-commission timed auctions for SaaS, e-commerce, mobile apps, Telegram bots, Chrome extensions, AI tools, newsletters, and crypto projects. Sellers pay a flat listing fee and keep 100% of the sale price.",
+  "foundingDate": "2026",
+  "founder": {
+    "@type": "Person",
+    "name": "Alex Web",
+    "jobTitle": "Founder"
+  },
+  "slogan": "Where builders exit and buyers bid",
+  "email": "support@exitbid.io",
+  "knowsAbout": [
+    "online business sales",
+    "SaaS acquisitions",
+    "digital business auctions",
+    "online business valuation",
+    "website flipping",
+    "Telegram bot sales",
+    "Chrome extension sales"
+  ],
+  "sameAs": [
+    "https://exitbid.io/about",
+    "https://exitbid.io/press",
+    "https://exitbid.hashnode.dev",
+    "https://github.com/Homeboy001k/exitbid"
+  ]
+}
